@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "notes": "Initial release of NetFusion. Includes torrent suite, media player, URL downloader, and browser.",
-  "pub_date": "2026-07-06T02:30:06Z",
+  "pub_date": "2026-07-06T02:35:35Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "PASTE_THE_CONTENTS_OF_NetFusion_0.1.0_aarch64.app.tar.gz.sig_HERE",
