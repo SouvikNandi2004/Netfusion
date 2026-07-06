@@ -1,11 +1,11 @@
 {
-  "version": "0.6.0",
+  "version": "0.7.0",
   "notes": "Initial release of NetFusion. Includes torrent suite, media player, URL downloader, and browser.",
-  "pub_date": "2026-07-06T03:13:31Z",
+  "pub_date": "2026-07-06T03:21:37Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1cvMW0xUEFja055QVlVSTNQc1BTWVVlczJRSm1sNzFBakt2MzYzL2pEbllrSTFMejVHQ1F6amFhYnV1WDRoek5RdXBaQkpLTGdodjNTTEdSNTB6d0ZyM1B5VlFUSWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzA1NTE4CWZpbGU6TmV0RnVzaW9uLmFwcC50YXIuZ3oKUmNseXl6MXRIdFh3czBhUDRFdWdCMmhzVUhTaGY4L1V4bmwxMmhFNHJJSkJCZEo4WjVYdHJwaWVPblVTSlVOdTg5VzRVTko5Ukk5MndTRlgreVg1QlE9PQo=",
-      "url": "https://github.com/SouvikNandi2004/Netfusion/releases/download/netfusion-v0.6.0/NetFusion_0.6.0_aarch64.app.tar.gz"
+      "url": "https://github.com/SouvikNandi2004/Netfusion/releases/download/netfusion-v0.7.0/NetFusion_0.7.0_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "PASTE_THE_CONTENTS_OF_NetFusion_0.1.0_x64.app.tar.gz.sig_HERE",
