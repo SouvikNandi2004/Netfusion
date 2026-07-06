@@ -1,11 +1,11 @@
 {
-  "version": "0.12.0",
+  "version": "0.13.0",
   "notes": "Initial release of NetFusion. Includes torrent suite, media player, URL downloader, and browser.",
-  "pub_date": "2026-07-06T04:12:21Z",
+  "pub_date": "2026-07-06T04:36:37Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1cvMW0xUEFja0NnS3MvZEdWWnFKN1MvbTlDN0czdEhTVVFsVDc5cTBmUVBkL2ovZzdsLy9xc0pueDk1NUNiNnJjY3dIaTFzWnhPdG11Sjc4WGZJY0VWQ3J1UkpGTmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzEwOTk2CWZpbGU6TmV0RnVzaW9uLmFwcC50YXIuZ3oKalI2MDJxVWdPeEVMTFp4V1g0SVdIbXJhSE9UR0JSZVpSUDNYbFdSaFR1Wkt1UjNGeUVVdVJ5RjhSa1U4ZVNRTW00NVdmREpYVHpybGxKbVgwYTdVQ2c9PQo=",
-      "url": "https://github.com/SouvikNandi2004/Netfusion/releases/download/netfusion-v0.12.0/NetFusion_0.12.0_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1cvMW0xUEFja093ajkzbVM5Y1l5Ni9xOVUzOW9KR2M0bUhVd1p1MzliSW9nek0yYmg0YXVWVEFnbkRGMkdkMUJRc2NEOXRaS1M4WndqZjRrK1BNNmo1MEhnanp2NmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzEyNDY2CWZpbGU6TmV0RnVzaW9uLmFwcC50YXIuZ3oKZ0w4RUlMSHd6ZmRqNXIrZGtIbDlGbVAvb0Z3WXlkRE1wQ3h3Mjd0ZUVaTElMYnUreXJVRFlYdmdON1ZyMHY2OTdMMXdobjduOUgrKzI4S1ZHTnlhRGc9PQo=",
+      "url": "https://github.com/SouvikNandi2004/Netfusion/releases/download/netfusion-v0.13.0/NetFusion_0.13.0_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "PASTE_THE_CONTENTS_OF_NetFusion_0.1.0_x64.app.tar.gz.sig_HERE",
